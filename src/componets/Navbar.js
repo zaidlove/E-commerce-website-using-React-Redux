@@ -29,7 +29,7 @@ class Navbar extends Component {
         }}
       >
         <span className="logo">
-          <h3>HappyKart 🛍️</h3>
+          <h1 style={{color: "blue", margin:"20px", }}>HappyKart</h1>
         </span>
         <div>
           <Link to="/" className="navLink">
